@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [zebian-dmesg](./index.md)
+- [アーキテクチャの表し方（i386, IA-32, i686, x86, x86-64...）](./2023-12-22-01.md)
