@@ -1,0 +1,8 @@
+[tasks.BUILD]
+script = "mdbook build"
+
+[tasks.SERVE]
+script = "mdbook serve --open"
+
+[tasks.CLEAN]
+script = "mdbook clean"
