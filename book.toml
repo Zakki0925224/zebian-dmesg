@@ -3,3 +3,6 @@ authors = ["Zakki0925224"]
 src = "src"
 title = "zebian-dmesg"
 description = ""
+
+[output.html]
+git-repository-url = "https://github.com/Zakki0925224/zebian-dmesg"
